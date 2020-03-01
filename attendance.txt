@@ -1,4 +1,4 @@
 Attendance list
 ---------------
-
 - jhuttonguest
+- jhutton
